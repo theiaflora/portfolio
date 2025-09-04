@@ -1,1 +1,13 @@
+# Sentiment Analysis Cyber Sexual Harassment (CSH)
 
+Proyek ini melakukan analisis sentimen pada tweet terkait Cyber Sexual Harassment (CSH) di platform X.  
+Model klasifikasi dibangun dengan algoritma **SVM** dan metode **TF-IDF**.
+
+## Hasil Utama
+- Akurasi model dengan TF-IDF Unigram + SVM: **74%**
+- Akurasi model dengan TF-IDF Bigram + SVM: **70%**
+
+## Tools
+- Python (Pandas, Numpy, Scikit-learn)
+- Jupyter Notebook
+- Matplotlib, Seaborn
